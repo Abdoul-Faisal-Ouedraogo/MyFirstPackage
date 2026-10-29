@@ -1,10 +1,10 @@
 Package: MyFirstPackage
-Title: What the Package Does (One Line, Title Case)
+Title: Exciting package for working with strings
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+    person("Odg", "Biiga", , "ouedraogoabdoulfaisal47@gmail.com", role = c("aut", "cre"))
+Description: String manipulation package that goes above and beyond what other package do in an exiting way
+License: MIT + file License
 Config/roxygen2/version: 8.1.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
